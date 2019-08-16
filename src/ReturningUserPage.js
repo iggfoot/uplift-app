@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 
 
-class HomePage extends Component {
+class ReturningUserPage extends Component {
     render() {
       return (
         <div>
-          This is the HOME Page
+          This is the RETURNING USER Page
         </div>
       )
     }
 }
 
-export default HomePage;
+export default ReturningUserPage;
