@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Route, Switch } from 'react-router-dom';
-//import Nav from './Nav';
 import LandingPage from './LandingPage';
 import ReturningUserPage from './ReturningUserPage';
 import MessageBoard from './MessageBoard';
