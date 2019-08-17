@@ -1,14 +1,15 @@
 import React, { Component } from 'react';
 
 
-class HomePage extends Component {
+
+class NotFoundPage extends Component {
     render() {
       return (
         <div>
-          This is the HOME Page
+          This is the NOT FOUND Page
         </div>
       )
     }
 }
 
-export default HomePage;
+export default NotFoundPage;
